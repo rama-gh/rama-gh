@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rama-gh
 - 👀 I’m interested in PHP & Java development
-- 🌱 I’m currently learning Laravel Livewire framework
+- 🌱 I’m currently learning Laravel & Flutter frameworks
 
 <!---
 rama-gh/rama-gh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
