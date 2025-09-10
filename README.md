@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rama-gh
+- 👋 Hi, I’m Ramiro
 - 👀 I’m interested in PHP & Java development
-- 🌱 I’m currently learning Laravel framework
+- 🌱 I’m currently working whith Laravel framework
 
 <!---
 rama-gh/rama-gh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
